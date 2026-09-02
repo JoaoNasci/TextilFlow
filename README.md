@@ -1,6 +1,6 @@
 # TERMO DE ABERTURA DE PROJETO/SOFTWARE (TAP)
 
-## TêxtilFlow — Sistema de PCP especializado em tecelagem
+## TêxtilFlow — Sistema Integrado de Planejamento e Controle da Produção para Tecelagem
 
 **Versão:** 1.0 — Documento-base para avaliação  
 **Organização:** [Nome da empresa]  
@@ -9,30 +9,11 @@
 **Elaborado por:** [Nome do responsável]  
 **Data de emissão:** [Preencher após aprovação]  
 
-> **Nota de preenchimento.** Os campos entre colchetes são informações institucionais que devem ser ajustadas pela empresa. Os valores de investimento e prazo são estimativas preliminares para apoiar a decisão de iniciar o projeto.
+
 
 ---
 
-## 1. Opções de título para avaliação
-
-A seguir são apresentadas alternativas de nome. A primeira é a recomendação por comunicar, de maneira direta, o caráter integrado do sistema e sua aplicação na tecelagem.
-
-| Opção | Título sugerido | Ênfase principal |
-|---|---|---|
-| **1 — recomendada** | **TêxtilFlow — Sistema Integrado de Planejamento e Controle da Produção para Tecelagem** | Integração, fluxo de produção e especialização em tecelagem. |
-| 2 | **TramaPlan — PCP Especializado em Tecelagem** | Planejamento de artigos, fios, teares e ordens de produção. |
-| 3 | **TecnoTrama — Gestão Inteligente da Produção Têxtil** | Visibilidade operacional e apoio à tomada de decisão. |
-| 4 | **Fio a Fio PCP — Planejamento, Programação e Controle da Produção Têxtil** | Rastreabilidade e controle desde o fio até o tecido acabado. |
-| 5 | **TearControl — Plataforma de Controle de Teares e Produção** | Acompanhamento de teares, paradas, produção e eficiência. |
-| 6 | **TêxtilFlow Gestão Têxtil** | Visão integrada da produção e dos indicadores da tecelagem. |
-
-**Título selecionado para esta versão:** TêxtilFlow — Sistema de Planejamento e Controle da Produção para Tecelagem.
-
-O TêxtilFlow deverá manter arquitetura modular e possibilidade de integração futura com outros sistemas corporativos, sem ampliar o escopo inicial para além das necessidades da tecelagem.
-
----
-
-## 2. Identificação e autorização do projeto
+## 1. Identificação e autorização do projeto
 
 | Campo | Definição preliminar |
 |---|---|
@@ -44,7 +25,7 @@ O TêxtilFlow deverá manter arquitetura modular e possibilidade de integração
 | **Abrangência inicial** | [Fábrica/unidade], contemplando programação, execução, apontamento, qualidade, manutenção e indicadores da tecelagem. |
 | **Critério de autorização** | Aprovação deste TAP pelo patrocinador e liberação do orçamento inicial. |
 
-### 2.1. Patrocinador (sponsor)
+### 1.1. Patrocinador (sponsor)
 
 O patrocinador proposto é a **Diretoria Executiva ou Diretoria Industrial da [Nome da empresa]**, representada por **[nome, cargo e contato]**. Cabe ao patrocinador assegurar o apoio financeiro e institucional, priorizar o projeto perante as demais iniciativas, remover impedimentos que dependam da alta gestão, aprovar mudanças relevantes de escopo, prazo ou orçamento e validar a entrega final.
 
@@ -52,7 +33,7 @@ O patrocinador deverá indicar um responsável com autoridade suficiente para to
 
 ---
 
-## 3. Justificativa do software
+## 2. Justificativa do software
 
 A operação de tecelagem envolve a coordenação de artigos, fichas técnicas, fios, lotes, receitas, teares, velocidades, setups, equipes, turnos, inspeções, perdas, paradas e reprocessamentos. Quando essas informações permanecem distribuídas entre planilhas, registros manuais, sistemas que não conversam entre si e controles paralelos, a empresa tende a ter dificuldade para formar uma visão única e atualizada da capacidade produtiva e do andamento das ordens.
 
@@ -62,13 +43,13 @@ O software é necessário para consolidar dados operacionais, apoiar a programa�
 
 ---
 
-## 4. Objetivo geral
+## 3. Objetivo geral
 
-Desenvolver ou implantar um sistema de PCP especializado em tecelagem para **planejar, programar, acompanhar e controlar a produção**, integrando informações de pedidos, artigos, fios, teares, ordens de produção, qualidade, manutenção e estoque, de modo a aumentar a previsibilidade dos prazos, a rastreabilidade e a eficiência operacional.
+Desenvolver ou implantar um sistema de PCP especializado em tecelagem para **planejar, programar, acompanhar e controlar a produção**, integrando informações de pedidos, artigos, fios, teares, ordens de produção, qualidade e manutenção, de modo a aumentar a previsibilidade dos prazos, a rastreabilidade e a eficiência operacional.
 
 ---
 
-## 5. Objetivos específicos e metas parciais
+## 4. Objetivos específicos e metas parciais
 
 | Objetivo específico | Meta parcial proposta | Indicador de acompanhamento |
 |---|---|---|
@@ -85,7 +66,7 @@ As metas percentuais definitivas deverão ser ajustadas após o diagnóstico da 
 
 ---
 
-## 6. Benefícios esperados
+## 5. Benefícios esperados
 
 Os benefícios abaixo são estimativas de referência e deverão ser confirmados por um diagnóstico inicial. O acompanhamento deverá comparar a linha de base do período anterior ao projeto com os resultados após o piloto e a estabilização.
 
@@ -102,7 +83,7 @@ Entre os **benefícios intangíveis**, destacam-se maior confiança nas informa�
 
 ---
 
-## 7. Descrição breve do software e funcionalidades
+## 6. Descrição breve do software e funcionalidades
 
 O TêxtilFlow será uma aplicação web ou híbrida, com perfis de acesso por função, destinada a conectar o planejamento do PCP à execução da tecelagem. O sistema deverá permitir que a empresa mantenha uma fonte única de informações operacionais, sem impedir a integração com sistemas corporativos existentes.
 
@@ -126,7 +107,7 @@ O TêxtilFlow será uma aplicação web ou híbrida, com perfis de acesso por fu
 
 ---
 
-## 8. Interessados no projeto (stakeholders)
+## 7. Interessados no projeto (stakeholders)
 
 | Stakeholder | Interesse ou responsabilidade | Participação esperada |
 |---|---|---|
@@ -148,7 +129,7 @@ O TêxtilFlow será uma aplicação web ou híbrida, com perfis de acesso por fu
 
 ---
 
-## 9. Premissas do projeto
+## 8. Premissas do projeto
 
 Para fins de planejamento, serão assumidas como verdadeiras as seguintes condições:
 
@@ -164,7 +145,7 @@ Para fins de planejamento, serão assumidas como verdadeiras as seguintes condi�
 
 ---
 
-## 10. Restrições do projeto
+## 9. Restrições do projeto
 
 As principais restrições preliminares são apresentadas a seguir. Elas deverão ser detalhadas no plano do projeto e acompanhadas pelo gerente responsável.
 
@@ -181,7 +162,7 @@ As principais restrições preliminares são apresentadas a seguir. Elas deverã
 
 ---
 
-## 11. Estimativa preliminar de investimentos
+## 10. Estimativa preliminar de investimentos
 
 A estimativa abaixo é de baixa precisão, destinada à decisão inicial. Os valores devem ser refinados após levantamento de requisitos, definição da estratégia de aquisição ou desenvolvimento e cotação de infraestrutura e serviços.
 
@@ -197,7 +178,7 @@ Os valores não incluem, salvo contratação específica, a expansão para múlt
 
 ---
 
-## 12. Estimativa de prazo
+## 11. Estimativa de prazo
 
 A estimativa de conclusão do núcleo do projeto é de **8 meses**, contados a partir da autorização formal e da disponibilização da equipe. O prazo pressupõe decisões tempestivas, acesso aos dados, disponibilidade dos usuários-chave e implantação inicial em uma unidade-piloto.
 
@@ -205,7 +186,7 @@ A entrada em produção deverá ocorrer de forma controlada, com treinamento, op
 
 ---
 
-## 13. Fatores críticos de sucesso (FCS)
+## 12. Fatores críticos de sucesso (FCS)
 
 1. **Patrocínio ativo:** a direção deverá comunicar a prioridade do projeto, assegurar recursos e decidir rapidamente sobre conflitos.
 2. **Participação do chão de fábrica:** operadores, líderes e supervisores deverão contribuir para que os apontamentos sejam simples e aderentes à realidade.
@@ -220,7 +201,7 @@ A entrada em produção deverá ocorrer de forma controlada, com treinamento, op
 
 ---
 
-## 14. Principais riscos e oportunidades
+## 13. Principais riscos e oportunidades
 
 | Tipo | Evento | Probabilidade | Impacto | Resposta inicial ou aproveitamento |
 |---|---|---|---|---|
@@ -242,7 +223,7 @@ Os riscos deverão ser registrados em um instrumento de acompanhamento, com resp
 
 ---
 
-## 15. Macro-cronograma das entregas
+## 14. Macro-cronograma das entregas
 
 O cronograma abaixo utiliza quinzenas sequenciais, sem datas de calendário. A **Quinzena 1** corresponde ao início formal do projeto. As datas reais serão atribuídas após a aprovação deste TAP.
 
@@ -262,7 +243,7 @@ A expansão para outros setores e demais teares deverá ser organizada em um nov
 
 ---
 
-## 16. Critérios preliminares de aceite e encerramento
+## 15. Critérios preliminares de aceite e encerramento
 
 O projeto poderá ser considerado apto ao aceite da primeira fase quando o núcleo priorizado estiver disponível no ambiente acordado, os perfis de acesso estiverem configurados, os dados críticos do piloto estiverem validados, os usuários-chave tiverem concluído os testes, os apontamentos essenciais estiverem funcionando, os indicadores definidos forem consultáveis e os defeitos críticos estiverem tratados ou formalmente aceitos.
 
@@ -270,7 +251,7 @@ O encerramento deverá incluir termo de aceite, documentação funcional e técn
 
 ---
 
-## 17. Aprovações
+## 16. Aprovações
 
 | Responsável | Nome | Assinatura | Data |
 |---|---|---|---|
@@ -280,10 +261,6 @@ O encerramento deverá incluir termo de aceite, documentação funcional e técn
 | Responsável pela TI | [Nome e cargo] | __________________________ | ____/____/________ |
 
 ---
-
-## Referência-base
-
-TERRIBILI FILHO, Armando. *Gerenciamento de projetos em 7 passos: viabilidade, planejamento e execução*. 2. ed. Rio de Janeiro: Editora Alta Books, 2025. p. 20.
 
 ## Observação final
 
